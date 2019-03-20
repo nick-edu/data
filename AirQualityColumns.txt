@@ -1,0 +1,23 @@
+Dataset of air quality from 5 chemical sensors located at road level in an Italian city.
+Source: https://archive.ics.uci.edu/ml/datasets/Air+Quality
+
+Columns:
+CO: true hourly averaged concentration CO in mg/m^3 (reference analyzer)
+TnOtCO: hourly averaged sensor response (nominally CO targeted)
+NMHC: true hourly averaged overall Non-Metanic Hydrocarbons concentration in mg/m^3 (reference analyzer)
+C6H6: true hourly averaged benzene concentration in mg/m^3 (reference analyzer) 
+TiO2tNMHC: titania hourly averaged sensor response (nominally NMHC targeted)
+NOx: true hourly averaged NOx concentration in ppb (reference analyzer)
+WO3tNOx: tungsten oxide hourly averaged sensor response (nominally NOx targeted)
+NO2: true hourly averaged NO2 concentration in mg/m^3 (reference analyzer)
+WO3tNO2: tungsten oxide hourly averaged sensor response (nominally NO2 targeted)
+In2O3tO3: indium oxide hourly averaged sensor response (nominally O3 targeted)
+Temp: temperature in deg. C
+RelHum: relative humidity (%)
+AbsHum: absolute humidity
+DateTime: date and time
+Month: month
+DayOfWeek: day of the week, 0-based
+Year: year
+Day: day
+Hour: hour
