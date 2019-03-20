@@ -1,0 +1,12 @@
+Dataset with spending on various products. All columns except Channel and Region show annual spending on the respective product.
+Source: https://archive.ics.uci.edu/ml/datasets/wholesale+customers
+
+Columns:
+Channel: Horeca (Hotel/Restaurant/Cafe) or Retail
+Region: Lisbon, Oporto or Other
+Fresh: annual spending on fresh products
+Milk: annual spending on milk products
+Grocery: annual spending on grocery products
+Frozen: annual spending on frozen products
+Detergents_Paper: annual spending on detergents and paper products
+Deli: annual spending on delicatessen products
