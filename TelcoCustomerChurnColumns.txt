@@ -16,4 +16,4 @@ OnlineSecurity: Yes if the customer has online security, No if not, No phone ser
 MonthlyCharges: amount charged to the customer monthly
 TotalCharges: total amount charged to customer
 Churn: Yes if the customer left the company, No if not
-DateJoined: date when the customer joined the company (randomly generated)
+DateJoined: date when the customer joined the company (generated from tenure)
