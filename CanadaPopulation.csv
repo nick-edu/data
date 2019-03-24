@@ -1,0 +1,248 @@
+Geography,Year,Population
+Newfoundland and Labrador,2000,526732
+Newfoundland and Labrador,2001,521581
+Newfoundland and Labrador,2002,519458
+Newfoundland and Labrador,2003,518786
+Newfoundland and Labrador,2004,516906
+Newfoundland and Labrador,2005,513740
+Newfoundland and Labrador,2006,510329
+Newfoundland and Labrador,2007,510262
+Newfoundland and Labrador,2008,513437
+Newfoundland and Labrador,2009,518985
+Newfoundland and Labrador,2010,522865
+Newfoundland and Labrador,2011,525936
+Newfoundland and Labrador,2012,527180
+Newfoundland and Labrador,2013,528117
+Newfoundland and Labrador,2014,528461
+Newfoundland and Labrador,2015,528696
+Newfoundland and Labrador,2016,529968
+Newfoundland and Labrador,2017,528463
+Newfoundland and Labrador,2018,525073
+Prince Edward Island,2000,136400
+Prince Edward Island,2001,136876
+Prince Edward Island,2002,137078
+Prince Edward Island,2003,137425
+Prince Edward Island,2004,137695
+Prince Edward Island,2005,138130
+Prince Edward Island,2006,137898
+Prince Edward Island,2007,138026
+Prince Edward Island,2008,139465
+Prince Edward Island,2009,140611
+Prince Edward Island,2010,142732
+Prince Edward Island,2011,144378
+Prince Edward Island,2012,144520
+Prince Edward Island,2013,144103
+Prince Edward Island,2014,144538
+Prince Edward Island,2015,144894
+Prince Edward Island,2016,147948
+Prince Edward Island,2017,151477
+Prince Edward Island,2018,154750
+Nova Scotia,2000,934459
+Nova Scotia,2001,933336
+Nova Scotia,2002,935968
+Nova Scotia,2003,938790
+Nova Scotia,2004,939884
+Nova Scotia,2005,938753
+Nova Scotia,2006,937046
+Nova Scotia,2007,935379
+Nova Scotia,2008,937045
+Nova Scotia,2009,940501
+Nova Scotia,2010,944179
+Nova Scotia,2011,945016
+Nova Scotia,2012,943341
+Nova Scotia,2013,940105
+Nova Scotia,2014,938972
+Nova Scotia,2015,938320
+Nova Scotia,2016,946103
+Nova Scotia,2017,954374
+Nova Scotia,2018,964693
+New Brunswick,2000,750252
+New Brunswick,2001,749295
+New Brunswick,2002,749408
+New Brunswick,2003,749463
+New Brunswick,2004,749243
+New Brunswick,2005,747672
+New Brunswick,2006,744975
+New Brunswick,2007,746138
+New Brunswick,2008,747769
+New Brunswick,2009,751066
+New Brunswick,2010,754287
+New Brunswick,2011,756420
+New Brunswick,2012,758673
+New Brunswick,2013,758670
+New Brunswick,2014,759524
+New Brunswick,2015,759778
+New Brunswick,2016,764878
+New Brunswick,2017,768212
+New Brunswick,2018,772238
+Quebec,2000,7368772
+Quebec,2001,7411504
+Quebec,2002,7455892
+Quebec,2003,7503709
+Quebec,2004,7553651
+Quebec,2005,7598887
+Quebec,2006,7653092
+Quebec,2007,7713173
+Quebec,2008,7786475
+Quebec,2009,7871361
+Quebec,2010,7955007
+Quebec,2011,8021860
+Quebec,2012,8078388
+Quebec,2013,8124660
+Quebec,2014,8165447
+Quebec,2015,8190014
+Quebec,2016,8249071
+Quebec,2017,8329664
+Quebec,2018,8421698
+Ontario,2000,11748348
+Ontario,2001,11961789
+Ontario,2002,12146053
+Ontario,2003,12291669
+Ontario,2004,12437664
+Ontario,2005,12578931
+Ontario,2006,12700994
+Ontario,2007,12807208
+Ontario,2008,12927148
+Ontario,2009,13047485
+Ontario,2010,13189339
+Ontario,2011,13308659
+Ontario,2012,13434943
+Ontario,2013,13558528
+Ontario,2014,13661314
+Ontario,2015,13757688
+Ontario,2016,13945524
+Ontario,2017,14153806
+Ontario,2018,14411424
+Manitoba,2000,1148183
+Manitoba,2001,1152150
+Manitoba,2002,1157298
+Manitoba,2003,1165530
+Manitoba,2004,1174675
+Manitoba,2005,1179086
+Manitoba,2006,1183981
+Manitoba,2007,1191690
+Manitoba,2008,1199548
+Manitoba,2009,1211875
+Manitoba,2010,1224662
+Manitoba,2011,1238019
+Manitoba,2012,1254178
+Manitoba,2013,1268428
+Manitoba,2014,1283366
+Manitoba,2015,1297329
+Manitoba,2016,1320057
+Manitoba,2017,1340776
+Manitoba,2018,1356836
+Saskatchewan,2000,1006027
+Saskatchewan,2001,999175
+Saskatchewan,2002,996279
+Saskatchewan,2003,996555
+Saskatchewan,2004,996993
+Saskatchewan,2005,993288
+Saskatchewan,2006,993361
+Saskatchewan,2007,1007323
+Saskatchewan,2008,1022553
+Saskatchewan,2009,1039554
+Saskatchewan,2010,1056115
+Saskatchewan,2011,1070687
+Saskatchewan,2012,1088959
+Saskatchewan,2013,1103730
+Saskatchewan,2014,1116203
+Saskatchewan,2015,1124919
+Saskatchewan,2016,1140773
+Saskatchewan,2017,1155034
+Saskatchewan,2018,1165903
+Alberta,2000,3016947
+Alberta,2001,3078336
+Alberta,2002,3144926
+Alberta,2003,3197858
+Alberta,2004,3260590
+Alberta,2005,3346754
+Alberta,2006,3453944
+Alberta,2007,3533413
+Alberta,2008,3619292
+Alberta,2009,3694303
+Alberta,2010,3747226
+Alberta,2011,3807726
+Alberta,2012,3900333
+Alberta,2013,4010903
+Alberta,2014,4106056
+Alberta,2015,4159519
+Alberta,2016,4210052
+Alberta,2017,4262642
+Alberta,2018,4330206
+British Columbia,2000,4049297
+British Columbia,2001,4085648
+British Columbia,2002,4108400
+British Columbia,2003,4134638
+British Columbia,2004,4167810
+British Columbia,2005,4212666
+British Columbia,2006,4258655
+British Columbia,2007,4312042
+British Columbia,2008,4371124
+British Columbia,2009,4431576
+British Columbia,2010,4483609
+British Columbia,2011,4525684
+British Columbia,2012,4590545
+British Columbia,2013,4658875
+British Columbia,2014,4737725
+British Columbia,2015,4802955
+British Columbia,2016,4881391
+British Columbia,2017,4945559
+British Columbia,2018,5016322
+Yukon,2000,30294
+Yukon,2001,30076
+Yukon,2002,30266
+Yukon,2003,31218
+Yukon,2004,31689
+Yukon,2005,32128
+Yukon,2006,32361
+Yukon,2007,32662
+Yukon,2008,33306
+Yukon,2009,34025
+Yukon,2010,34789
+Yukon,2011,35668
+Yukon,2012,36425
+Yukon,2013,36448
+Yukon,2014,37272
+Yukon,2015,37751
+Yukon,2016,38745
+Yukon,2017,39781
+Yukon,2018,40333
+Northwest Territories,2000,40575
+Northwest Territories,2001,41173
+Northwest Territories,2002,41874
+Northwest Territories,2003,42857
+Northwest Territories,2004,43352
+Northwest Territories,2005,43526
+Northwest Territories,2006,43197
+Northwest Territories,2007,43262
+Northwest Territories,2008,43293
+Northwest Territories,2009,42924
+Northwest Territories,2010,43303
+Northwest Territories,2011,43593
+Northwest Territories,2012,43681
+Northwest Territories,2013,43756
+Northwest Territories,2014,44064
+Northwest Territories,2015,44428
+Northwest Territories,2016,44556
+Northwest Territories,2017,45097
+Northwest Territories,2018,44445
+Nunavut,2000,27683
+Nunavut,2001,28180
+Nunavut,2002,28864
+Nunavut,2003,29371
+Nunavut,2004,29807
+Nunavut,2005,30407
+Nunavut,2006,30879
+Nunavut,2007,31560
+Nunavut,2008,31963
+Nunavut,2009,32811
+Nunavut,2010,33570
+Nunavut,2011,34352
+Nunavut,2012,34842
+Nunavut,2013,35543
+Nunavut,2014,36105
+Nunavut,2015,36603
+Nunavut,2016,37041
+Nunavut,2017,37773
+Nunavut,2018,38650
